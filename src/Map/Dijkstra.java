@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * Implementation of Dijkstra's algorithm on the programs graph
- * @author FOX
+ * @author Arshia Malekahmadi 2019
  *
  */
 public class Dijkstra {
