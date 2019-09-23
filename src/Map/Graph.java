@@ -1,6 +1,6 @@
 /**
  * @author Arshia Malekahmadi 2019
- *
+ * This class build a graph with all its properties below.
  */
 import java.util.*;
 /*
